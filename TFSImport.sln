@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TFSImport", "TFSImport\TFSImport.csproj", "{972616A7-6862-444D-8B45-D3038E08F808}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{972616A7-6862-444D-8B45-D3038E08F808}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{972616A7-6862-444D-8B45-D3038E08F808}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{972616A7-6862-444D-8B45-D3038E08F808}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{972616A7-6862-444D-8B45-D3038E08F808}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {752546A7-76C5-47A0-AB97-9C3B16466DA9}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,22 @@
+[
+    {
+        "System.Title":  "Title1",
+        "System.Activity":  "Requirements",
+        "System.AreaPath":  "Proj1\\Team1",
+        "System.AssignedTo":  "P Name1",
+        "System.Description":  "Description 1",
+        "Microsoft.VSTS.Scheduling.OriginalEstimate":  "10",
+        "Microsoft.VSTS.Scheduling.CompletedWork":  "10",
+        "IterationPath":  "\\Current\\Sprint 3"
+    },
+    {
+        "System.Title":  "Title2",
+        "System.Activity":  "Maintenance",
+        "System.AreaPath":  "Projt1\\Team1",
+        "System.AssignedTo":  "P Name2",
+        "System.Description":  "Description 2",
+        "Microsoft.VSTS.Scheduling.OriginalEstimate":  "5",
+        "Microsoft.VSTS.Scheduling.CompletedWork":  "5",
+        "IterationPath":  "\\Current\\Sprint 3"
+    }
+]
